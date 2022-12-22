@@ -1,0 +1,3 @@
+# NUIST-SHISHO-DEV
+
+欢迎来到NUIST-SHISHO-DEV开发组。
